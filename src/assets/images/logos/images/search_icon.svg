@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="40.001" height="39.991" viewBox="0 0 40.001 39.991">
+  <defs>
+    <clipPath id="clip-path">
+      <rect x="-10" y="-10" width="40.001" height="39.991" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Scroll_Group_2" data-name="Scroll Group 2" transform="translate(10 10)" clip-path="url(#clip-path)" style="isolation: isolate">
+    <path id="search_icon" d="M13.119,14.563a8.136,8.136,0,1,1,1.434-1.434l5.441,5.42-1.444,1.444-5.42-5.431Zm-4.983-.325a6.1,6.1,0,1,0-6.1-6.1,6.1,6.1,0,0,0,6.1,6.1Z" transform="translate(0.008 -0.002)" fill="#fff9eb"/>
+  </g>
+</svg>
