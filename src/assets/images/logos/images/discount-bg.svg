@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="344" height="40" viewBox="0 0 344 40">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.769" y1="0.867" x2="-0.176" y2="-0.2" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ffd323"/>
+      <stop offset="1" stop-color="#fff4c6"/>
+    </linearGradient>
+  </defs>
+  <path id="discount-bg" d="M-218,486H-552c-2.757,0-5-2.719-5-6.061v-3.372A15.323,15.323,0,0,0-553,466a15.325,15.325,0,0,0-4-10.568V452.06c0-3.342,2.243-6.061,5-6.061h334c2.757,0,5,2.719,5,6.061v3.373A15.325,15.325,0,0,0-217,466a15.324,15.324,0,0,0,4,10.567v3.373C-213,483.281-215.243,486-218,486Z" transform="translate(557 -446)" fill="url(#linear-gradient)"/>
+</svg>
